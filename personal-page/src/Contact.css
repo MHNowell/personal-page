@@ -1,0 +1,13 @@
+.contact {
+    margin: 2rem;
+    text-align: center;
+    border-style: solid;
+    border-color: #0056b3;
+    border-width: 0.1rem;
+    border-radius: 0.5rem;
+}
+
+.contact h1 {
+    font-family: "Cormorant Garamond", serif;
+    color: #0056b3;
+}   

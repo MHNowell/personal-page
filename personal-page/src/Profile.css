@@ -1,0 +1,137 @@
+.profile {
+    position: absolute;
+
+    height: 100%;
+    width: 100%;
+}
+
+.exeter{
+    position: absolute;
+    width: 100%;
+    height: 50%;
+
+    background-color: white;
+}
+
+.exe_banner{
+    position: absolute;
+
+    width: 50%;
+}
+
+.exeter_logo_container {
+    position: absolute;
+
+    width: 50%;
+    height: 40%;
+
+    top: 30%;
+
+    opacity: 0.7;
+    background-color: black;
+}
+
+.exe_logo {
+    position: absolute;
+
+    width: 25%;
+    height: 30%;
+
+    top : 35%;
+    left: 12.5%;
+}
+
+.exeter_text {
+    position: absolute;
+
+    width: 40%;
+    height: 90%;
+
+    left: 55%;
+}
+
+.qmul {
+    position: absolute;
+    width: 100%;
+    height: 50%;
+
+    top:50%;
+
+    background-color: white;
+}
+
+.qmul_banner{
+    position: absolute;
+
+    left: 50%;
+    width: 50%;
+    height: 100%;
+}
+
+.qmul_logo_container {
+    position: absolute;
+
+    width: 50%;
+    height: 40%;
+
+    top: 30%;
+    left: 50%;
+
+    opacity: 0.7;
+    background-color: black;
+}
+
+.qmul_logo {
+    position: absolute;
+
+    width: 30%;
+    height: 30%;
+
+    top: 35%;
+    left: 60%;
+
+}
+
+.qmul_text {
+    position: absolute;
+
+    width: 40%;
+    height: 90%;
+
+    top: 10%;  
+    left: 5%;
+
+}
+
+h2 {
+    position: absolute;
+
+    margin: 2rem;
+
+    font-family: "Cormorant Garamond", serif;
+    color: #0056b3;
+}
+
+.other {
+    position: absolute;
+
+    width: 30%;
+    height: 5%;
+
+    top: 105%;
+    left: 35%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.other p {
+    width: 100%;
+
+    font-family: "Cormorant Garamond", serif;
+    font-size: 2rem;
+    color: #0056b3;
+
+    text-align: center;
+}
